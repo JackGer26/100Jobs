@@ -107,6 +107,12 @@ This would transform the application from a learning project into a production-r
 
 In summary, this project provided comprehensive experience with modern React development including component architecture, styling systems, routing, API integration, and build tooling. The transformation from a generic React tutorial into a personalized job board application demonstrated how fundamental React skills can be applied to create unique, professional applications with custom branding and enhanced functionality.
 
+## 🔗 Examples of Other Work
+
+- **[Portfolio Website](https://github.com/JackGer26/portfolio)** - Modern React portfolio showcasing all projects and technical skills
+- **[Binary Upload Boom](https://github.com/JackGer26/binary-upload-boom)** - Full-stack social media application with Node.js and MongoDB
+- **[Green Cars Airport Transfers](https://github.com/JackGer26/Green-Cars-Airport-Transfers)** - Professional freelance business website with Email.js integration
+
 ## Getting Started
 
 ### Install Dependencies
