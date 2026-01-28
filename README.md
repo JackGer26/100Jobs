@@ -2,7 +2,11 @@
 
 This is a modern job board web application built with **React** and **Vite** as a comprehensive learning project to master React fundamentals, component architecture, and modern frontend development practices. The application features full CRUD functionality for job listings with a beautiful, responsive interface that showcases professional web development skills.
 
-Link to Project: http://localhost:3000 (Local Development)
+## 🌐 Live Demo
+
+**[https://100jobs.netlify.app/](https://100jobs.netlify.app/)** (Frontend only - displays static job listings)
+
+**Local Development:** http://localhost:3000 (Full CRUD functionality with JSON Server backend)
 
 ## Screenshots
 
